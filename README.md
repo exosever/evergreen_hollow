@@ -1,4 +1,4 @@
-# rpg
+# Evergreen Hollow Project
 This is a text based RPG project by Joshua Harrison aka SeverX.
 
 Currently a WIP showing code concept and storyboard ideas.
